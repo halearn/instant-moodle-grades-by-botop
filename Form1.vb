@@ -77,18 +77,34 @@ Public Class Form1
                 quiz.from = jtoken("sumgrades")
                 'Get quiz attempt which includes the grade
                 Dim markj As String = DoPost(TextBox1.Text & "/webservice/rest/server.php?moodlewsrestformat=json", "wstoken=" & token.ToString & "&wsfunction=mod_quiz_get_user_attempts&quizid=" & quiz.id & "&userid=" & userid.ToString)
-                quiz.grade = JObject.Parse(markj)("attempts")(0)("sumgrades")
+                If markj.StartsWith("{""attempts"":[],") Then
+                    quiz.grade = "No Attempt"
+                End If
+
+                Try
+                    quiz.grade = JObject.Parse(markj)("attempts")(0)("sumgrades")
+
+                Catch exx As Exception
+
+                End Try
                 quiz.coursename = courses.FindAll(Function(c) c.id = quiz.courseid)(0).shortname
+
                 quizes.Add(quiz)
             Catch ex As Exception
-                ' MsgBox(ex.Message)
+                MsgBox(ex.Message)
+                MsgBox(ex.StackTrace)
             End Try
         Next
         For Each q In quizes
             Dim i As New ListViewItem
             i.Text = q.name
             i.SubItems.Add(q.grade & " / " & q.from & " -- " & q.grade * q.modi & " / " & q.from * q.modi)
-            i.SubItems.Add(q.coursename)
+            Try
+                i.SubItems.Add(q.coursename)
+
+            Catch ex As Exception
+
+            End Try
             ListView1.Items.Add(i)
         Next
         MsgBox("Done", MsgBoxStyle.Information)
