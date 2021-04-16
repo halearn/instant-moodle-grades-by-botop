@@ -77,7 +77,6 @@ Public Class Form1
                 quiz.from = jtoken("sumgrades")
                 'Get quiz attempt which includes the grade
                 Dim markj As String = DoPost(TextBox1.Text & "/webservice/rest/server.php?moodlewsrestformat=json", "wstoken=" & token.ToString & "&wsfunction=mod_quiz_get_user_attempts&quizid=" & quiz.id & "&userid=" & userid.ToString)
-                MsgBox(markj)
                 quiz.grade = JObject.Parse(markj)("attempts")(0)("sumgrades")
                 quiz.coursename = courses.FindAll(Function(c) c.id = quiz.courseid)(0).shortname
                 quizes.Add(quiz)
