@@ -1,0 +1,30 @@
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Instant Grades - Moodle.exe.config
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Instant Grades - Moodle.exe
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Instant Grades - Moodle.pdb
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Instant Grades - Moodle.xml
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant_Grades___Moodle.Form1.resources
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant_Grades___Moodle.Resources.resources
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.exe
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.xml
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.pdb
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Instant Grades - Moodle\Instant Grades - Moodle\obj\Debug\Instant Grades - Moodle.vbproj.CopyComplete
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant Grades - Moodle.exe.config
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant Grades - Moodle.exe
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant Grades - Moodle.pdb
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant Grades - Moodle.xml
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant_Grades___Moodle.Form1.resources
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant_Grades___Moodle.Resources.resources
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbproj.CopyComplete
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.exe
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.xml
+C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.pdb
