@@ -19,7 +19,6 @@ C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant 
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Instant Grades - Moodle.xml
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Newtonsoft.Json.dll
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\bin\Debug\Newtonsoft.Json.xml
-C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbprojAssemblyReference.cache
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant_Grades___Moodle.Form1.resources
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant_Grades___Moodle.Resources.resources
 C:\Users\USER\Documents\GitHub\instant-moodle-grades-by-botop\obj\Debug\Instant Grades - Moodle.vbproj.GenerateResource.cache

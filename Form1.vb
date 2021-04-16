@@ -83,11 +83,11 @@ Public Class Form1
 
                 Try
                     quiz.grade = JObject.Parse(markj)("attempts")(0)("sumgrades")
+                    quiz.coursename = courses.FindAll(Function(c) c.id = quiz.courseid)(0).shortname
 
                 Catch exx As Exception
 
                 End Try
-                quiz.coursename = courses.FindAll(Function(c) c.id = quiz.courseid)(0).shortname
 
                 quizes.Add(quiz)
             Catch ex As Exception
