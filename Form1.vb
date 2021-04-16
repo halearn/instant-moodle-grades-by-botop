@@ -98,7 +98,13 @@ Public Class Form1
         For Each q In quizes
             Dim i As New ListViewItem
             i.Text = q.name
-            i.SubItems.Add(q.grade & " / " & q.from & " -- " & q.grade * q.modi & " / " & q.from * q.modi)
+            If q.grade = "No Attempt" Then
+                i.SubItems.Add("No Attempt")
+
+            Else
+                i.SubItems.Add(q.grade & " / " & q.from & " -- " & q.grade * q.modi & " / " & q.from * q.modi)
+
+            End If
             Try
                 i.SubItems.Add(q.coursename)
 
